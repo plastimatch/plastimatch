@@ -3,7 +3,7 @@ What is this project ?
 
 This project is **NOT** the official plastimatch repository.
 
-The official upstream repository is https://gitlab.kitware.com/plastimatch/plastimatch.
+The official upstream repository is https://gitlab.com/plastimatch/plastimatch.
 
 It is used a placeholder allowing GitHub contributors to fork the project and a have staging area
 specific to their project to maintain and test patches that will be contributed back to the
