@@ -13,7 +13,7 @@ official repository.
 Suggested branch naming convention for staging area
 ---------------------------------------------------
 
-Each branch may be named following the pattern `<projectname>-Y.Y.Z-YYYY-MM-DD-SHA{7}`
+Each branch may be named following the pattern `<projectname>-X.Y.Z-YYYY-MM-DD-SHA{7}`
 
 where:
 
